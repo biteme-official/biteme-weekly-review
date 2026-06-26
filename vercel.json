@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "api/tableau-data.js": { "maxDuration": 60 },
+    "api/todos.js": { "maxDuration": 10 },
+    "api/notes.js": { "maxDuration": 10 },
+    "api/fixed-costs.js": { "maxDuration": 10 },
+    "api/launch-items.js": { "maxDuration": 10 },
+    "api/mkt-metrics.js": { "maxDuration": 10 },
+    "api/init-db.js": { "maxDuration": 30 }
+  }
+}
